@@ -1,14 +1,11 @@
-# Ismail Ercikdi · Public Profile
+# Hi there! 👋
 
-A LeetCode-style public profile page — dark dashboard with profile sidebar,
-skill ring, badges, activity heatmap and a projects / experience / education list.
+I'm [Ismail](https://ercikdi.com), an AI & Software Engineer and computer science student at KIT, based in Karlsruhe, Germany.
 
-Content is taken from [ercikdi.com](https://ercikdi.com).
+I love turning ideas into production-ready software — from RAG and AI agents on AWS Bedrock to fast, clean web apps with Next.js.
 
-## View
+Outside of code, you'll find me at the gym, watching motorsport, or playing football. You can also find me on [LinkedIn](https://www.linkedin.com/in/ismailercikdi).
 
-Open `index.html` in a browser — the page is a single self-contained file
-(no build step, no dependencies).
+Fun Facts:
 
-To publish it, enable **GitHub Pages** for this repository
-(Settings → Pages → Deploy from branch) and the profile is live.
+- I'm a matcha tester & critic. 🍵
